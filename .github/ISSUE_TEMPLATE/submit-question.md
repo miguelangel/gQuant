@@ -1,6 +1,6 @@
 ---
 name: Submit question
-about: Ask a general question about cuDF
+about: Ask a general question about gQuant
 title: "[QST]"
 labels: "? - Needs Triage, question"
 assignees: ''
