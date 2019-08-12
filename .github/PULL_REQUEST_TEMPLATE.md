@@ -1,6 +1,6 @@
 <!--
 
-Thank you for contributing to cuDF :)
+Thank you for contributing to gQuant :)
 
 Here are some guidelines to help the review process go smoothly.
 
